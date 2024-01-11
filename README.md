@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edson Cuna
-- 👀 I’m interested in ...learning Python , ..AND Language of programation
-- 🌱 I’m currently learning ..
+- 👀 I’m Computer Engineer..learning Python , ..AND Language of programation
+- 🌱 I’m currently learning about Data science
 - 💞️ I’m looking to collaborate on ...Create site , empowerment on heath Tecnology
 - 📫 How to reach me ...Studying Hard
 -
