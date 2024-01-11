@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Edson Cuna
-- 👀 I’m Computer Engineer..learning Python , ..AND Language of programation
+- 👀 I’m Computer Engineer student...learning Python , ..AND Language of programation , like C#
 - 🌱 I’m currently learning about Data science
-- 💞️ I’m looking to collaborate on ...Create site , empowerment on heath Tecnology
-- 📫 How to reach me ...Studying Hard
+- 💞️ I’m looking to collaborate with enthusiastic people in technology andd company....Create site , empowerment on heath Tecnology.
+- 📫 I love to study everyy day ...Studying Hard
 -
 
 <!---
